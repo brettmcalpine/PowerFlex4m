@@ -1,4 +1,4 @@
-#include <IMC.h>
+#include <PowerFlex4m.h>
 
 // Create a motor object
 PowerFlex4m motor1 = PowerFlex4m();
