@@ -4,8 +4,8 @@
 	Released into public domain
 */
 
-#ifndef _IMC_h
-#define _IMC_h
+#ifndef _PowerFlex4m_h
+#define _PowerFlex4m_h
 
 // Allen Bradley uses RS-485 (i.e. Serial)
 #include <ArduinoRS485.h>

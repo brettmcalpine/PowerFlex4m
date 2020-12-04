@@ -1,4 +1,4 @@
-#include "IMC.h"
+#include "PowerFlex4m.h"
 
 bool PowerFlex4m::init(uint8_t id) // Default pinouts
 {
