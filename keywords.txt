@@ -1,0 +1,33 @@
+#######################################
+# Syntax Coloring Map For IMC
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+PowerFlex4m	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init	KEYWORD2
+direction	KEYWORD2
+frequency	KEYWORD2
+isRunning	KEYWORD2
+isFaulted KEYWORD2
+stop	KEYWORD2
+start	KEYWORD2
+setRelay	KEYWORD2
+frequencySource	KEYWORD2
+printFault	KEYWORD2
+isAccelerating	KEYWORD2
+isDecelerating	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+MOTOR_FORWARD	KEYWORD3
+MOTOR_REVERSE	KEYWORD3
